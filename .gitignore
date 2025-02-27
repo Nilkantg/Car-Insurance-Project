@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+credentials.txt
+
 # Distribution / packaging
 .Python
 build/
@@ -170,5 +172,3 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-demo.py
-credentials.txt
